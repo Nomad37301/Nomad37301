@@ -8,6 +8,7 @@ _____
 |:-----------------------------------------------|:------------------------------------------:|-----------------------------------------------:|
 ____
 
-### Hello There, Welcome I'm Agung Purnama
+<h3 align="center">Hello There, I'm Agung Purnama</h3>
+<hr>
 <p aling="justify">Information Technology Undergraduate at Udayana University</p>
 

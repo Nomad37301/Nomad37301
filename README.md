@@ -1,18 +1,24 @@
-<img src="Asset/hsr-honkai.gif" width="1000" align="center">
+<!-- GIF utama di tengah -->
+<p align="center">
+  <img src="Asset/hsr-honkai.gif" width="1000">
+</p>
 
+<!-- Baris teks dengan GIF kiri dan kanan -->
+<div style="display: flex; align-items: center; justify-content: space-between;">
 
-# <img src="Asset/herta-kurukuru.gif" width="70"> <span style="vertical-align: middle;" align="centre">Welcome To My Page</span> <img src="Asset/herta-kurukuru.gif" width="70">
-<!--
-**Nomad37301/Nomad37301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- GIF kiri -->
+  <div style="flex: 1; text-align: left;">
+    <img src="Asset/herta-kurukuru.gif" width="70">
+  </div>
 
-Here are some ideas to get you started:
+  <!-- Teks di tengah -->
+  <div style="flex: 1; text-align: center;">
+    <h1>Welcome To My Page</h1>
+  </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- GIF kanan -->
+  <div style="flex: 1; text-align: right;">
+    <img src="Asset/herta-kurukuru.gif" width="70">
+  </div>
+
+</div>

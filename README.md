@@ -12,9 +12,9 @@ ____
 <hr>
 <p align="justify"><b>Information Technology</b> Undergraduate at <b>Udayana University</b>. I Like Learning Network and Cyber Security. Well that's all to it so idk what's more to explain, well if knowing me more is the answer, then the only thing that i can tell you is I'm also a gamer, audiophile, and a light novel enthusiast 😋😋😋</p>
 
-----
-<h2> What im currently trying to learn </h2>
-
+___
+<h2> What I'm Trying To Learn </h2>
+<hr>
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
 

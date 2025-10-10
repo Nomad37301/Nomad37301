@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <span style="float: left;">
+  <span style="align: left;">
     <img src="Asset/herta-kurukuru.gif" width="70">
   </span>
 
@@ -12,7 +12,7 @@
     <h1>Welcome To My Page</h1>
   </span>
 
-  <span style="float: right;">
+  <span style="align: right;">
     <img src="Asset/herta-kurukuru.gif" width="70">
   </span>
 </p>

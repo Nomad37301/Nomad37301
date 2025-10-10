@@ -17,8 +17,26 @@ ____
 <hr style="margin: 20px 0;">
 
 
-| Pen Testing | <img src="Asset/miyabi-approaching.gif" width="45"> |
-|--------------|---------------------------------------------------:|
+<div align="center">
+
+  <!-- Tabel 1 -->
+  <div style="display: inline-block; vertical-align: top; margin-right: 20px;">
+    
+  | Pen Testing | <img src="Asset/miyabi-approaching.gif" width="45"> |
+  |--------------|---------------------------------------------------:|
+
+  </div>
+
+  <!-- Tabel 2 -->
+  <div style="display: inline-block; vertical-align: top; margin-left: 20px;">
+    
+  | Scripting | <img src="Asset/herta-kurukuru.gif" width="45"> |
+  |----------|-----------------------------------------------:|
+
+  </div>
+
+</div>
+
 
 
 

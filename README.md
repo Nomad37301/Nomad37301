@@ -4,7 +4,7 @@
 </p>
 
 <!-- Baris teks dengan GIF kiri dan kanan -->
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; align-items: center;">
 
   <!-- GIF kiri -->
   <div style="flex: 1; text-align: left;">

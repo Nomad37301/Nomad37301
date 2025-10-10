@@ -3,17 +3,7 @@
   <img src="Asset/hsr-honkai.gif" width="1000">
 </p>
 
-<p align="center">
-  <span style="align: left;">
-    <img src="Asset/herta-kurukuru.gif" width="70">
-  </span>
-
-  <span>
-    <h1>Welcome To My Page</h1>
-  </span>
-
-  <span style="align: right;">
-    <img src="Asset/herta-kurukuru.gif" width="70">
-  </span>
-</p>
+<!-- Tabel untuk GIF kiri, teks tengah, GIF kanan -->
+| <img src="Asset/herta-kurukuru.gif" width="70"> | <h1 align="center">Welcome To My Page</h1> | <img src="Asset/herta-kurukuru.gif" width="70"> |
+|:-----------------------------------------------|:------------------------------------------:|-----------------------------------------------:|
 

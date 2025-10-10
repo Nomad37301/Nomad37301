@@ -34,8 +34,6 @@ ____
   |-----------------------|-------------------------------------------------------:|
 
   </div>
-  
-  </div>
 
   <!-- Tabel 3 -->
   <div style="display: inline-block; vertical-align: top; margin-left: 20px;">
@@ -45,6 +43,13 @@ ____
 
   </div>
 
+  <!-- Tabel 3 -->
+  <div style="display: inline-block; vertical-align: top; margin-left: 20px;">
+    
+  | Machine Learning | <img src="Asset/herta-kurukuru.gif" width="45"> |
+  |-----------------------|-------------------------------------------------------:|
+
+  </div>
 </div>
 
 

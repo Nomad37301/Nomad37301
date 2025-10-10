@@ -3,22 +3,17 @@
   <img src="Asset/hsr-honkai.gif" width="1000">
 </p>
 
-<!-- Baris teks dengan GIF kiri dan kanan -->
-<div style="display: flex; align-items: center;">
-
-  <!-- GIF kiri -->
-  <div style="flex: 1; text-align: left;">
+<p align="center">
+  <span style="float: left;">
     <img src="Asset/herta-kurukuru.gif" width="70">
-  </div>
+  </span>
 
-  <!-- Teks di tengah -->
-  <div style="flex: 1; text-align: center;">
+  <span>
     <h1>Welcome To My Page</h1>
-  </div>
+  </span>
 
-  <!-- GIF kanan -->
-  <div style="flex: 1; text-align: right;">
+  <span style="float: right;">
     <img src="Asset/herta-kurukuru.gif" width="70">
-  </div>
+  </span>
+</p>
 
-</div>

@@ -11,9 +11,10 @@ ____
 <h3 align="center">Hello There, I'm Agung Purnama</h3>
 <hr>
 <p align="justify"><b>Information Technology</b> Undergraduate at <b>Udayana University</b>. I Like Learning Network and Cyber Security. Well that's all to it so idk what's more to explain, well if knowing me more is the answer, then the only thing that i can tell you is I'm also a gamer, audiophile, and a light novel enthusiast 😋😋😋</p>
-<br>
 
-## What im currently trying to learn
+----
+<h2> What im currently trying to learn </h2>
+
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
 

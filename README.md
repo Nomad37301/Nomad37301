@@ -62,6 +62,6 @@ ____
 <h3 align="center"> Contact Me ?</h3>
 <hr style="margin: 20px 0;">
 <p align="center">
-  <img src="Asset/miyabi-hoshimi-miyabi.gif" width="1000">
+  <img src="Asset/miyabi-hoshimi-miyabi.gif" width="350">
 </p>
 <hr style="margin: 20px 0;">

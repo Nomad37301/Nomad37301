@@ -1,5 +1,5 @@
-![](Asset/hsr-honkai.gif)
--------
+<img src="Asset/hsr-honkai.gif" width="1000" align="center">
+
 
 # <img src="Asset/herta-kurukuru.gif" width="70"> <span style="vertical-align: middle;" align="centre">Welcome To My Page</span> <img src="Asset/herta-kurukuru.gif" width="70">
 <!--

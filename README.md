@@ -17,7 +17,7 @@ ____
 <hr style="margin: 20px 0;">
 
 
-<h4 align="left">- Pen Testing</h4> | <img src="Asset/miyabi-approaching.gif" width="70"> |
+| <h4 align="left">- Pen Testing</h4> | <img src="Asset/miyabi-approaching.gif" width="70"> |
 |:------------------------------------------|-----------------------------------------------:|
 
 <h3 align="left">The Things That I Know :</h3>

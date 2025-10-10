@@ -22,7 +22,7 @@ ____
   <!-- Tabel 1 -->
   <div style="display: inline-block; vertical-align: top; margin-right: 20px;">
     
-  | Web Pen Testing | <img src="Asset/miyabi-approaching.gif" width="45"> |
+  | Web Pen Testing | <img src="Asset/mai-sakurajima-mai.gif" width="100"> |
   |-----------------------|-------------------------------------------------------:|
 
   </div>
@@ -30,7 +30,7 @@ ____
   <!-- Tabel 2 -->
   <div style="display: inline-block; vertical-align: top; margin-left: 20px;">
     
-  | Scripting | <img src="Asset/herta-kurukuru.gif" width="45"> |
+  | Scripting | <img src="Asset/inunaka-akari.gif" width="100"> |
   |-----------------------|-------------------------------------------------------:|
 
   </div>
@@ -38,15 +38,15 @@ ____
   <!-- Tabel 3 -->
   <div style="display: inline-block; vertical-align: top; margin-left: 20px;">
     
-  | Computer Vision | <img src="Asset/herta-kurukuru.gif" width="45"> |
+  | Computer Vision | <img src="Asset/screnshotted.gif" width="100"> |
   |-----------------------|-------------------------------------------------------:|
 
   </div>
 
-  <!-- Tabel 3 -->
+  <!-- Tabel 4 -->
   <div style="display: inline-block; vertical-align: top; margin-left: 20px;">
     
-  | Machine Learning | <img src="Asset/herta-kurukuru.gif" width="45"> |
+  | Machine Learning | <img src="Asset/everknight-evernight.gif" width="100"> |
   |-----------------------|-------------------------------------------------------:|
 
   </div>

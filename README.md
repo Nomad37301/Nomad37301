@@ -23,7 +23,7 @@ ____
   <div style="display: inline-block; vertical-align: top; margin-right: 20px;">
     
   | Pen Testing | <img src="Asset/miyabi-approaching.gif" width="45"> |
-  |--------------|---------------------------------------------------:|
+  |-----------------------|-------------------------------------------------------:|
 
   </div>
 
@@ -31,7 +31,7 @@ ____
   <div style="display: inline-block; vertical-align: top; margin-left: 20px;">
     
   | Scripting | <img src="Asset/herta-kurukuru.gif" width="45"> |
-  |----------|-----------------------------------------------:|
+  |-----------------------|-------------------------------------------------------:|
 
   </div>
 

@@ -4,7 +4,7 @@
 </p>
 
 _____
-| <img src="Asset/herta-kurukuru.gif" width="200"> | <h1 align="center">Welcome To My Page</h1> | <img src="Asset/herta-kurukuru.gif" width="200"> |
+| <img src="Asset/herta-kurukuru.gif" width="260"> | <h1 align="center">Welcome To My Page</h1> | <img src="Asset/herta-kurukuru.gif" width="260"> |
 |:-----------------------------------------------|:------------------------------------------:|-----------------------------------------------:|
 ____
 

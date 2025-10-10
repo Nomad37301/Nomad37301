@@ -17,8 +17,8 @@ ____
 <hr style="margin: 20px 0;">
 
 
-- <span style="vertical-align: middle;">Pen Testing</span> 
-  <img src="Asset/miyabi-approaching.gif" width="40" style="vertical-align: middle;">
+| Pen Testing | <img src="Asset/miyabi-approaching.gif" width="45"> |
+|--------------|---------------------------------------------------:|
 
 
 

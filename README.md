@@ -10,5 +10,5 @@ ____
 
 <h3 align="center">Hello There, I'm Agung Purnama</h3>
 <hr>
-<p aling="justify">Information Technology Undergraduate at Udayana University</p>
+<p aling="justify"><b>Information Technology</b> Undergraduate at <b>Udayana University</b>. I Like Learning Network and Cyber Security. Well that's all to it so idk :v</p>
 

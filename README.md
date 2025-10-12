@@ -49,6 +49,12 @@ ____
   | Machine Learning | <img src="Asset/everknight-evernight.gif" width="100"> |
   |-----------------------|-------------------------------------------------------:|
 
+  <!-- Tabel 5 -->
+  <div style="display: inline-block; vertical-align: top; margin-left: 20px;">
+    
+  | Reverse Engineering | <img src="Asset/miyabi-approaching.gif" width="100"> |
+  |-----------------------|-------------------------------------------------------:|
+
   </div>
 </div>
 <br>

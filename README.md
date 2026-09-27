@@ -17,46 +17,28 @@ ____
 <hr style="margin: 20px 0;">
 
 
-<div align="center">
-
-  <!-- Tabel 1 -->
-  <div style="display: inline-block; vertical-align: top; margin-right: 20px;">
-    
-  | Web Pen Testing | <img src="Asset/mai-sakurajima-mai.gif" width="100"> |
-  |-----------------------|-------------------------------------------------------:|
-
-  </div>
-
-  <!-- Tabel 2 -->
-  <div style="display: inline-block; vertical-align: top; margin-left: 20px;">
-    
-  | Scripting | <img src="Asset/inunaka-akari.gif" width="100"> |
-  |-----------------------|-------------------------------------------------------:|
-
-  </div>
-
-  <!-- Tabel 3 -->
-  <div style="display: inline-block; vertical-align: top; margin-left: 20px;">
-    
-  | Computer Vision | <img src="Asset/screnshotted.gif" width="100"> |
-  |-----------------------|-------------------------------------------------------:|
-
-  </div>
-
-  <!-- Tabel 4 -->
-  <div style="display: inline-block; vertical-align: top; margin-left: 20px;">
-    
-  | Machine Learning | <img src="Asset/everknight-evernight.gif" width="100"> |
-  |-----------------------|-------------------------------------------------------:|
-
-  <!-- Tabel 5 -->
-  <div style="display: inline-block; vertical-align: top; margin-left: 20px;">
-    
-  | Reverse Engineering | <img src="Asset/miyabi-approaching.gif" width="100"> |
-  |-----------------------|-------------------------------------------------------:|
-
-  </div>
-</div>
+<table align="center">
+  <tr>
+    <td width="180"><b>Web Pen Testing</b></td>
+    <td width="120" align="center"><img src="Asset/mai-sakurajima-mai.gif" alt="Web Pen Testing" width="100"></td>
+  </tr>
+  <tr>
+    <td width="180"><b>Scripting</b></td>
+    <td width="120" align="center"><img src="Asset/inunaka-akari.gif" alt="Scripting" width="100"></td>
+  </tr>
+  <tr>
+    <td width="180"><b>Computer Vision</b></td>
+    <td width="120" align="center"><img src="Asset/screnshotted.gif" alt="Computer Vision" width="100"></td>
+  </tr>
+  <tr>
+    <td width="180"><b>Machine Learning</b></td>
+    <td width="120" align="center"><img src="Asset/everknight-evernight.gif" alt="Machine Learning" width="100"></td>
+  </tr>
+  <tr>
+    <td width="180"><b>Reverse Engineering</b></td>
+    <td width="120" align="center"><img src="Asset/miyabi-approaching.gif" alt="Reverse Engineering" width="100"></td>
+  </tr>
+</table>
 <br>
 
 <hr style="margin: 20px 0;">

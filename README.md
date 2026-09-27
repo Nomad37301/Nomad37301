@@ -18,24 +18,46 @@ ____
 
 <table align="center">
   <tr>
-    <td width="180"><b>Web Pen Testing</b></td>
-    <td width="120" align="center"><img src="Asset/mai-sakurajima-mai.gif" alt="Web Pen Testing" width="100"></td>
+    <td width="300" align="center" valign="top">
+      <table>
+        <tr>
+          <td width="140" align="center">
+            <b>Web Pen Testing</b><br><br>
+            <img src="Asset/mai-sakurajima-mai.gif" alt="Web Pen Testing" width="100">
+          </td>
+          <td width="140" align="center">
+            <b>Scripting</b><br><br>
+            <img src="Asset/inunaka-akari.gif" alt="Scripting" width="100">
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td width="300" align="center" valign="top">
+      <table>
+        <tr>
+          <td width="140" align="center">
+            <b>Computer Vision</b><br><br>
+            <img src="Asset/screnshotted.gif" alt="Computer Vision" width="100">
+          </td>
+          <td width="140" align="center">
+            <b>Machine Learning</b><br><br>
+            <img src="Asset/everknight-evernight.gif" alt="Machine Learning" width="100">
+          </td>
+        </tr>
+      </table>
+    </td>
   </tr>
   <tr>
-    <td width="180"><b>Scripting</b></td>
-    <td width="120" align="center"><img src="Asset/inunaka-akari.gif" alt="Scripting" width="100"></td>
-  </tr>
-  <tr>
-    <td width="180"><b>Computer Vision</b></td>
-    <td width="120" align="center"><img src="Asset/screnshotted.gif" alt="Computer Vision" width="100"></td>
-  </tr>
-  <tr>
-    <td width="180"><b>Machine Learning</b></td>
-    <td width="120" align="center"><img src="Asset/everknight-evernight.gif" alt="Machine Learning" width="100"></td>
-  </tr>
-  <tr>
-    <td width="180"><b>Reverse Engineering</b></td>
-    <td width="120" align="center"><img src="Asset/miyabi-approaching.gif" alt="Reverse Engineering" width="100"></td>
+    <td colspan="2" align="center">
+      <table width="100%">
+        <tr>
+          <td align="center">
+            <b>Reverse Engineering</b><br><br>
+            <img src="Asset/miyabi-approaching.gif" alt="Reverse Engineering" width="100">
+          </td>
+        </tr>
+      </table>
+    </td>
   </tr>
 </table>
 <br>
